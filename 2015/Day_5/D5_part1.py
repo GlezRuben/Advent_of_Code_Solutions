@@ -1,5 +1,3 @@
-import re
-
 def convert_lower(line):
     new_line = line.lower()
     return new_line
